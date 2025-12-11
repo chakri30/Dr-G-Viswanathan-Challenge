@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class manEnvelopes {
+public class Optimal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
@@ -42,3 +42,4 @@ public class manEnvelopes {
         return start;
     }
 }
+
